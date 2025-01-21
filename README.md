@@ -25,7 +25,7 @@ How to launch:
 ![image](https://github.com/user-attachments/assets/f40c32d0-9cb7-4368-ab95-6b47367e3328)
 
 
-2. Step: Choose the T Site!
+2. Step: Choose the T Site! (only if u downloaded ohnePixel.cfg and not ohnePixel_ct.cfg, if u choose ct then go into ct)
 
 ![image](https://github.com/user-attachments/assets/f8463ded-3877-4d44-a2b0-653fb18e4293)
 
