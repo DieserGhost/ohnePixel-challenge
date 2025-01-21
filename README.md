@@ -36,7 +36,7 @@ How to launch:
 
 
 
-Note: If your team includes players, simply redo step 3.
+Note: If your team includes bots, simply redo step 3.
 
 
 
