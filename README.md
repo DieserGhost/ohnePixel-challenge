@@ -30,7 +30,7 @@ How to launch:
 ![image](https://github.com/user-attachments/assets/f8463ded-3877-4d44-a2b0-653fb18e4293)
 
 
-3. Step: execute the command **exec ohnePixel**
+3. Step: execute the command **exec ohnePixel** (if u **choose** ct: **ohnePixel_ct**)
 
 ![image](https://github.com/user-attachments/assets/39fdc0d0-499f-46ce-9ae0-6f0521d12390)
 
